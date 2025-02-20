@@ -21,6 +21,6 @@ An automated file sorter using Python that organizes files in a specified direct
    ```python
    path = r"C:/path/to/your/directory/"
    ```
-3. Customize File Extensions:
+3. Customize File Extensions: \n
 You can add any type of file extension to the code to sort additional file types. Simply modify the conditions in the script to include your desired extensions.
 4. Run the script
