@@ -32,9 +32,3 @@ An automated file sorter using Python that organizes files in a specified direct
    elif file.endswith(".your_extension"):
        shutil.move(path + file, path + 'your_folder/' + file)
    ```
-
-4. **Run the Script:**
-   Execute the script in your terminal or command prompt:
-   ```bash
-   python automated_file_sorter.py
-   ```
